@@ -40,7 +40,6 @@ This project implements an **AI-powered workflow agent** for automating the proc
 5. **Loop if declined or no reply**.
 6. **Inform customer** once a rider is confirmed.
 
-![Workflow Diagram](./A_flowchart_in_the_image_illustrates_a_workflow_fo.png)
 
 ## 🔹 Future Improvements
 
