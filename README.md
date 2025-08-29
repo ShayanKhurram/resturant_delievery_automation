@@ -1,3 +1,3 @@
- ![alt text](http://url/to/workflow.png)
+ ![alt text](workflow.png)
 
  
