@@ -1,8 +1,6 @@
  ![Workflow](workflow.png)
 
-Here’s a **formal GitHub front page description** for your project:
 
----
 
 # 🚀 Automated Delivery Order Handling Agent
 
