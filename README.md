@@ -48,6 +48,5 @@ This project implements an **AI-powered workflow agent** for automating the proc
 
 ---
 
-Do you want me to make this **more startup-pitch style** (salesy for clients) or keep it **developer-focused** (technical, for contributors)?
 
  
